@@ -1,6 +1,6 @@
 
 DFHACK=/Applications/Games/DwarfFortress.app/Contents/Resources/hack
-SCRIPTDEST=${DFHACK}/scripts/jl
+SCRIPTDEST=${DFHACK}/scripts
 LIBDEST=${DFHACK}/lua
 
 main:
